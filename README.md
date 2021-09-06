@@ -2,7 +2,7 @@
 This is another simple Page Repository
 - 👋 Hi, I’m Roy aka "@TheWitchDoctor"
 
-- 👀 I’m interested in Xbox and PS gaming, M365, collaboration and cloud apps, latest technology, and tinkering with gizmos and inventing.
+- 👀 I’m interested in Xbox and PS gaming, M365, collaboration and cloud apps, latest technology, and tinkering with gizmos and inventing.  I'm new to code with js and know some powershell but am always looking to learn more.
 
 - 🌱 I’m currently seeking a long term employment opportunity that allows remote availability while I continue certification studies.
 
